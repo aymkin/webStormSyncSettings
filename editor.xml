@@ -3,6 +3,9 @@
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Monospaced" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
