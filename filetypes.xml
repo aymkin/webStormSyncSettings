@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitingore" type="GitIgnore file" />
       <mapping pattern=".gitignore" type="GitIgnore file" />
+      <mapping pattern=".gitingore" type="GitIgnore file" />
       <mapping pattern=".husky" type="JSON" />
       <mapping pattern=".huskyrs" type="JSON" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
